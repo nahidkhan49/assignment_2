@@ -1,0 +1,70 @@
+.navs{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.navcontainer{
+    width: auto;
+    margin: auto;
+}
+.field{
+    width: 200px;
+}
+.main_container{
+    display: flex;
+    justify-content: space-around;
+}
+.cart_container{
+    margin-left: 70px;
+    width: 600px;
+    padding-left: 40px;
+    padding-right: 40px;
+    /* border: 1px solid gray; */
+    
+    
+}
+.cart_head{
+    display: flex;
+    justify-content: space-around;
+}
+.cimg{
+    width: 270px;
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 30px;
+}
+.drink_container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 15px;
+    width: 2000px;
+    
+}
+.cards{
+    text-align: center;
+    border: 2px rgb(211, 209, 207);
+    border-style: groove;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.crtimg{
+    width: 70px;
+    border-radius: 100px;
+}
+.addcart{
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    justify-content: space-around;
+    margin: auto;
+    border-top: 1px solid gray;
+}
+.addercart{
+    border-top: 1px solid gray;
+}
+.dimg{
+    width: 465px;
+    height: 300px;
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 30px;
+}
